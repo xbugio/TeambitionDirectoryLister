@@ -1,0 +1,5 @@
+.vscode
+.DS_Store
+
+analytics.inc
+resources/config.php
